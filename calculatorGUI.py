@@ -10,7 +10,6 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import QObject, pyqtSlot
-from calculatorGUI import Ui_calculator
 from numpy import *
 from matplotlib.pyplot import *
 import sys
